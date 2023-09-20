@@ -358,7 +358,7 @@ void key()
 
 
 ## Output screen shots of proteus  :
-![out](https://github.com/JEEVAABI/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/93427098/01f2dae9-27c9-4535-ad01-2ba781862337)
+![outtttttttttttttt](https://github.com/JEEVAABI/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/93427098/e6cf968e-cf5f-4ef1-922a-1f1add831ef0)
 
  
  
